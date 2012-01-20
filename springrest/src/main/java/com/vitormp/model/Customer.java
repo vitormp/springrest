@@ -1,4 +1,4 @@
-package com.maplink.model;
+package com.vitormp.model;
 
 import java.util.Date;
 
