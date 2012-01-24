@@ -2,6 +2,9 @@ package com.vitormp.model;
 
 import java.util.Date;
 
+import com.thoughtworks.xstream.annotations.XStreamAlias;
+
+@XStreamAlias("customer")
 public class Customer {
 
 	private Long id;
